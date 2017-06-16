@@ -16,7 +16,7 @@
       "polyfills": "polyfills.ts",
       "test": "test.ts",
       "tsconfig": "tsconfig.app.json",
-      "testTsconfig": "tsconfig.spec.json",
+      "testTsconfig": "tsconfig.json",
       "prefix": "app",
       "styles": [
         "styles.css"
@@ -39,7 +39,7 @@
       "project": "src/tsconfig.app.json"
     },
     {
-      "project": "src/tsconfig.spec.json"
+      "project": "src/tsconfig.json"
     },
     {
       "project": "e2e/tsconfig.e2e.json"
